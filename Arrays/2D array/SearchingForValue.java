@@ -23,6 +23,7 @@ public class SearchingForValue
           }
           System.out.print("Enter the number you want ot find: ");
           int num=obj.nextInt();
+          obj.close();
           System.out.println("Index are: ");
           //searching
           for(int i=0;i<rows;i++)
