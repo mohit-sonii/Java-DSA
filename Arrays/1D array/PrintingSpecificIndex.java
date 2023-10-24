@@ -16,6 +16,7 @@ public class PrintingSpecificIndex
         }
         System.out.println("Enter the number you want to find index of: ");
         int value=obj.nextInt();
+        obj.close();
         for(int i=0;i<num;i++)
         {
             if(a[i]==value)

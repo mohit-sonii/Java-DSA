@@ -17,6 +17,7 @@ public class deletion
         }
         System.out.println("Enter the index you want ot delete");
         int value=obj.nextInt();
+        obj.close();
         for(int i=0;i<a.length;i++)
         {
             if(i<value)

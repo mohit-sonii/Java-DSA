@@ -14,6 +14,7 @@ public class FindingMaxMin
         {
             a[i]=obj.nextInt();
         }
+        obj.close();
         int max=Integer.MIN_VALUE;
         int min=Integer.MAX_VALUE;
         for(int i=0;i<num;i++)

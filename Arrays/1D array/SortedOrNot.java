@@ -15,6 +15,7 @@ public class SortedOrNot
         {
             a[i]=obj.nextInt();
         }
+        obj.close();
         boolean IsAscending=true;
         for(int i=0;i<num-1;i++)
         {

@@ -15,6 +15,7 @@ public class Inputting
         {
             array[i]=obj.nextInt();
         }
+        obj.close();
         //output
         System.out.println("Output values are: ");
         for(int i=0;i<num;i++)

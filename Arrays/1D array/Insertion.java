@@ -22,6 +22,7 @@ public class Insertion
         int ins=obj.nextInt();
         System.out.print("Enter the value you want ot insert : ");
         int value=obj.nextInt();
+        obj.close();
         int b[]=new int[num+1];
         //insertion
         for(int i=0;i<num+1;i++)
