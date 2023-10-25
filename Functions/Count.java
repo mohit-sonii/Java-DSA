@@ -2,7 +2,7 @@
 
 //write a program to coundt the number of 1's in a binary representation of a number
 
-public class counting_of_1
+public class Count
 {
     public static int Count(String binary_number)
     {
