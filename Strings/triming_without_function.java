@@ -20,6 +20,7 @@ public class triming_without_function
             username+=email.charAt(i);
         }
         System.out.println("username: "+ username);
+        obj.close();
     }
 }
 

@@ -31,5 +31,6 @@ public class stringbuilder
         //capacity -> of the string builder object
         int capacity=name.capacity();
         System.out.println(capacity);
+      
     }
 }

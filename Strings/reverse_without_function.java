@@ -21,5 +21,6 @@ public class reverse_without_function
             name.setCharAt(back,frontChar);
         }
         System.out.println(name);
+        obj.close();
     }
 }
