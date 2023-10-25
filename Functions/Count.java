@@ -4,7 +4,7 @@
 
 public class Count
 {
-    public static int Count(String binary_number)
+    public static int count(String binary_number)
     {
         int total=0;
         for(int i=0;i<binary_number.length()-1;i++)
@@ -20,6 +20,6 @@ public class Count
     public static void main(String ags[])
     {
         String binary_number="1010001";
-        System.out.println(Count(binary_number));
+        System.out.println(count(binary_number));
     }
 }

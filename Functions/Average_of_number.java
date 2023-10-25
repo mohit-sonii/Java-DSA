@@ -20,8 +20,9 @@ public class Average_of_number
         int a=obj.nextInt();
         int b=obj.nextInt();
         int c=obj.nextInt();
-        Average_of_number obj1=new Average_of_number();
-        obj1.Average(a,b,c);
+        obj.close();
+        Average(a,b,c);
+        
     }
 
 }

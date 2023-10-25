@@ -15,6 +15,7 @@ public class Calculatesum{
         Scanner obj=new Scanner(System.in);
         int a=obj.nextInt();
         int b=obj.nextInt();
+        obj.close();
         int sum=calculateSum(a,b);
         System.out.println(sum);
     }
