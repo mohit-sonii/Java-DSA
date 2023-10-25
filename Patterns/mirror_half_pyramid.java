@@ -1,6 +1,6 @@
 
 
-import java.util.*;
+import java.util.Scanner;
 public class mirror_half_pyramid
 {
     public static void main(String ag[])

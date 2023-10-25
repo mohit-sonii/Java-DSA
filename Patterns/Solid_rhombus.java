@@ -1,5 +1,5 @@
 
-import java.util.*;
+import java.util.Scanner;
 public class Solid_rhombus{
     public static void main(String as[]){
         Scanner obj=new Scanner(System.in);

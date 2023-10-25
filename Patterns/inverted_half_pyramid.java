@@ -7,7 +7,7 @@
 // *
 
 
-import java.util.*;
+import java.util.Scanner;
 public class inverted_half_pyramid
 {
     public static void main(String arg[])

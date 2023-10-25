@@ -1,5 +1,5 @@
 
-import java.util.*;
+import java.util.Scanner;
 public class reverted_nmber_pyramid
 {
     public static void main(String ags[])

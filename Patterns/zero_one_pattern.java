@@ -1,5 +1,5 @@
 
-import java.util.*;
+import java.util.Scanner;
 public class zero_one_pattern
 {
     public static void main(String ags[])

@@ -6,7 +6,7 @@
 // *****
 
 
-import java.util.*;
+import java.util.Scanner;
 public class hollow_rectangle_pattern
 {
     public static void main(String args[])

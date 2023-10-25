@@ -1,5 +1,5 @@
 
-import java.util.*;
+import java.util.Scanner;
 public class number_pattern
 {
     public static void main(String ag[])

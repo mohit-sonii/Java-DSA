@@ -2,7 +2,7 @@
 // Pyramid patter
 
 
-import java.util.Scanner;
+import java.util.*;
 public class pyramid{
     public static void main(String arg[])
     {

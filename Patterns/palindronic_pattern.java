@@ -1,6 +1,6 @@
 
 
-import java.util.*;
+import java.util.Scanner;
 public class palindronic_pattern
 {
     public static void main(String[] args)

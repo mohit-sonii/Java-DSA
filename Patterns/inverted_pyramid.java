@@ -4,7 +4,7 @@
 //    * *
 //     *
 
-import java.util.*;
+import java.util.Scanner;
 public class inverted_pyramid
 {
     public static void main(String ags[])

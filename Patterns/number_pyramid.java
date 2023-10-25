@@ -1,7 +1,7 @@
 
 
 
-import java.util.*;
+import java.util.Scanner;
 public class number_pyramid
 {
     public static void main(String ags[])

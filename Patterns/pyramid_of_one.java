@@ -1,7 +1,7 @@
 
 
 
-import java.util.*;
+import java.util.Scanner;
 public class pyramid_of_one
 {
     public static void main(String ags[])

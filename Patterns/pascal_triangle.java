@@ -1,7 +1,7 @@
 
 
 
-import java.util.*;
+import java.util.Scanner;
 public class pascal_triangle
 {
     public static void main(String ags[])
