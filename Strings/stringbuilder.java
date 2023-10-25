@@ -3,7 +3,7 @@
 //string builder -> because strings are immuatable and once it stored in memory, it cannot be altered. 
 //so to overcome this limitaiton of string, string builder came into existence.
 
-import java.util.*;
+
 public class stringbuilder
 {
     public static void main(String ags[])
