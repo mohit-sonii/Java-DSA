@@ -8,6 +8,7 @@ public class Basic
         Scanner obj=new Scanner(System.in);
         //String name=obj.next();  this will print only first name not full name
         String name=obj.nextLine();
+        obj.close();
         System.out.println(name); 
     }
 }

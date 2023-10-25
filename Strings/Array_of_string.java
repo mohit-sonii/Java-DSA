@@ -19,6 +19,7 @@ public class Array_of_string
             array[i]=obj.next();
             combine+=array[i];
         }
+        obj.close();
         System.out.println(combine);
         System.out.println(combine.length());
     }
