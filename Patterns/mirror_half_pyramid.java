@@ -19,5 +19,6 @@ public class mirror_half_pyramid
             }
             System.out.println();
         }
+        obj.close();
     }
 }

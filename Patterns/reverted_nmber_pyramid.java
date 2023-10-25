@@ -21,5 +21,6 @@ public class reverted_nmber_pyramid
             System.out.println();
             s++;
         }
+        obj.close();
     }
 }

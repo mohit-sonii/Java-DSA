@@ -14,6 +14,6 @@ public class reverse_number_pattern
             }
             System.out.println();
         }
-
+        obj.close();
     }
 }

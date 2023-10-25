@@ -23,5 +23,6 @@ public class pyramid_of_one
             }
             System.out.println();
         }
+        obj.close();
     }
 }

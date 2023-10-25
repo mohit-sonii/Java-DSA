@@ -57,6 +57,7 @@ public class hollow_butterfly_pattern{
             }
             System.out.println();
         }
+        obj.close();
     }
     
 }

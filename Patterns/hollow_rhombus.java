@@ -18,6 +18,7 @@ public class hollow_rhombus{
             }
             System.out.println();
         }
+        obj.close();
     }
     
 }

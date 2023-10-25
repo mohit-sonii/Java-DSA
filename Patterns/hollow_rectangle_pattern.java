@@ -26,5 +26,6 @@ public class hollow_rectangle_pattern
             }
             System.out.println();
         }
+        obj.close();
     }
 }

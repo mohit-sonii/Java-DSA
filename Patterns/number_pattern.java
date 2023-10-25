@@ -14,5 +14,6 @@ public class number_pattern
             }
             System.out.println();
         }
+        o.close();
     }
 }

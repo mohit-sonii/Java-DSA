@@ -23,5 +23,6 @@ public class pascal_triangle
             }
             System.out.println();
         }
+        obj.close();
     }
 }

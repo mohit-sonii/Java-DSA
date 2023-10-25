@@ -20,5 +20,6 @@ class solid_pattern{
             System.out.println();
 
         }
+        obj.close();
     }
 }

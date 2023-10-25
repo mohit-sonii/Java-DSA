@@ -20,5 +20,6 @@ public class number_pyramid
             }
             System.out.println();
         }
+        obj.close();
     }    
 }

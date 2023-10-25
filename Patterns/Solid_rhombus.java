@@ -13,6 +13,7 @@ public class Solid_rhombus{
             }
             System.out.println();
         }
+        obj.close();
     }
     
 }

@@ -23,5 +23,6 @@ public class inverted_pyramid
             }
             System.out.println();
         }
+        obj.close();
     }
 }

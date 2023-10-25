@@ -27,5 +27,6 @@ public class palindronic_pattern
             }
             System.out.println();
         }
+        obj.close();
     }    
 }
