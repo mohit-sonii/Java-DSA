@@ -3,7 +3,7 @@
 //functions of string
 
 
-import java.util.*;
+
 public class functions_of_string
 {
     public static void main(String ags[])
