@@ -17,6 +17,7 @@ public class Exponent_finding
         Scanner obj=new Scanner(System.in);
         double x=obj.nextInt();
         double n=obj.nextInt();
+        obj.close();
         System.out.println("Answer is: "+ exponent_find(x,n));
     }
 }

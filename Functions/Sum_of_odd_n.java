@@ -27,6 +27,7 @@ public class Sum_of_odd_n
     {
         Scanner obj=new Scanner(System.in);
         int n=obj.nextInt();
+        obj.close();
         sum(n);
     }
 }

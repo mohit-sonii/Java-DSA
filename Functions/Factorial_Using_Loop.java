@@ -17,5 +17,6 @@ public class Factorial_Using_Loop
         Scanner obj=new Scanner(System.in);
         int n=obj.nextInt();
         newFunction(n);
+        obj.close();
     }
 }

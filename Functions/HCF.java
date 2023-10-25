@@ -38,6 +38,7 @@ public class HCF
                 n2=n2-n1;
             }
         }
+        obj.close();
         System.out.println(n2);
     }
 }

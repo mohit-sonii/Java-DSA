@@ -16,6 +16,7 @@ public class fibonnaci
             c=a+b;
             a=b;
             b=c;
+            obj.close();
             System.out.println(c);
         }
     }

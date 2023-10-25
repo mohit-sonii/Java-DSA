@@ -18,6 +18,7 @@ public class Finding_greater_one
         Scanner obj=new Scanner (System.in);
         int a=obj.nextInt();
         int b=obj.nextInt();
+        obj.close();
         System.out.println("Greater is: "+greater(a,b));
     }
 }

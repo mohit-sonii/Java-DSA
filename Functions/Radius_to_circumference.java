@@ -13,6 +13,7 @@ public class Radius_to_circumference
     {
         Scanner obj=new Scanner(System.in);
         float r=obj.nextInt();
+        obj.close();
         System.out.println(radius(r));
     }
 }

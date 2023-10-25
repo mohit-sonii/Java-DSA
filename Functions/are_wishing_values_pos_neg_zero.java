@@ -30,6 +30,7 @@ public class are_wishing_values_pos_neg_zero
             System.out.println("Press 0 to stop and 1 to continue");
             input=obj.nextInt();
         }
+        obj.close();
         System.out.println("Total positiv count is: "+count_pos);
         System.out.println("Total negiv count is: "+count_neg);
         System.out.println("Total zero count is: "+count_zero);

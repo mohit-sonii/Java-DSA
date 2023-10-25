@@ -10,6 +10,7 @@ public class Function{
     {
         Scanner obj=new Scanner(System.in);
         String string=obj.next();
+        obj.close();
         printMyName(string);
     }
 }

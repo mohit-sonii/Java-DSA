@@ -15,6 +15,7 @@ public class vote_or_not
     {
         Scanner obj=new Scanner(System.in);
         int n=obj.nextInt();
+        obj.close();
         System.out.println(vote(n));
     }
 }
