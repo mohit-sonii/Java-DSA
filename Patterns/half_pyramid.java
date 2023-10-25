@@ -6,7 +6,7 @@
 // * * * *
 // * * * * *
 
-import java.util.*;
+import java.util.Scanner;
 public class half_pyramid
 {
     public static void main(String agrg[])
