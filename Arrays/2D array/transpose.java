@@ -20,6 +20,7 @@ public class transpose
                     a[i][j]=obj.nextInt();
                }
           }
+          obj.close();
           System.out.println("Matrix representation is: ");
           //printing
           for(int i=0;i<rows;i++)
