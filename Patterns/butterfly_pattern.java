@@ -1,6 +1,6 @@
 
 
-import java.util.Scanner;
+import java.util.*;
 public class butterfly_pattern{
     public static void main(String ags[]){
         Scanner obj=new Scanner (System.in);
