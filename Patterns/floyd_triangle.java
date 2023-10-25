@@ -1,5 +1,5 @@
 
-import java.util.*;
+import java.util.Scanner;
 public class floyd_triangle
 {
     public static void main (String ad[])
