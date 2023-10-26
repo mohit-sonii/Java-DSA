@@ -12,6 +12,8 @@ public class SumOfNumber
           }
           sum+=initial;
           PrintSum(initial+1,end,sum);
+          //if we add another statement then
+          System.out.println(initial);
      }
      public static void main(String ags[])
      {
