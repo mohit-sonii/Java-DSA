@@ -16,6 +16,8 @@ public class Basic
         String s=str;
         str=str.concat("Base" );
         System.out.println(str);
+        System.out.println(s);
+
         //if we do not give a reference varialbe then it will concat it, but beacuse of non refernece it
         //will be discarded.
         String st="java";
