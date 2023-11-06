@@ -24,7 +24,7 @@ public class replace_without_function
             }
         }
         System.out.println(result);
-
         obj.close();
+
     }
 }
