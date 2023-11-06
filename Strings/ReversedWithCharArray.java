@@ -10,6 +10,7 @@ public class ReversedWithCharArray {
           }
           return reverse;
      }
+     
      public static void main(String ags[])
      {
           String str="java";
