@@ -21,4 +21,4 @@ public class power
           int x=2,n=5;
           System.out.println(Calpow(x,n));
      }
-}
+} 
