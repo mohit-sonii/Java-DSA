@@ -1,5 +1,5 @@
 
-
+//print x^n (stack height =n)
 public class power 
 {
      public static int Calpow(int x,int n)
